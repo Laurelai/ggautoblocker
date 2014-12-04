@@ -14,7 +14,7 @@ To block everyone on the current list, log in to Twitter, then [subscribe to the
 
 #### Dependencies
 
-Requires Net::Twitter which has a huge level of crazy deps.
+Requires Net::Twitter which has a huge level of crazy deps. Full dep list here http://pastebin.com/raw.php?i=xujUdfgd
 
 If you add CHSommers or Adam Baldwin back to the list of users, it's going to take a really long time to run because of API limits. Ugh. Literally the worst, Twitter. Be less annoying.
 
